@@ -1,4 +1,4 @@
-# IDA_Scripting
+# IDA Scripts
 
 ## Description
 All these were tested in IDA 8.2. Code were also closely referenced to the SDK. 
@@ -7,4 +7,4 @@ Motivation came from the `All Things IDA` series and I have also followed along 
 ## References
 - [All things IDA](https://www.youtube.com/@allthingsida)
 
-- ---
+---
